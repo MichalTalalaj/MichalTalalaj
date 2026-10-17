@@ -11,8 +11,8 @@ My work so far has focused on recommender systems, explainable machine learning,
 - **Languages:** Python, R, SQL
 - **Machine Learning & Data Analysis:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Databases & Cloud:** PostgreSQL, Google Cloud
-- **Tools:** Git, GitHub, Jupyter Notebook
-- **Currently learning:** PyTorch, PySpark, Apache Airflow, Linux
+- **Tools:** Git, GitHub, Linux, Jupyter Notebook
+- **Currently learning:** PyTorch, PySpark, Apache Airflow 
 
 ## Featured Projects
 
