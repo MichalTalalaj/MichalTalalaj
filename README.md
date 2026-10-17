@@ -22,11 +22,11 @@ A reproducible machine learning study comparing regularized logistic regression 
 
 Includes nested cross-validation, probability calibration, model evaluation, and explainability analysis using SHAP and LIME.
 
-### [Steam Game Recommendation System — Bachelor's Thesis](https://github.com/MichalTalalaj/Licencjat_tex_repo)
+### [Steam Game Recommendation System - Bachelor's Thesis](https://github.com/MichalTalalaj/Licencjat_tex_repo)
 
 Research on how different confidence functions influence recommendation quality in implicit-feedback Alternating Least Squares (ALS), using Steam user interaction data.
 
-### [BiKing — Environment-Aware Cycling Route Planner](https://github.com/karabowiczjakub/larpathon)
+### [BiKing - Environment-Aware Cycling Route Planner](https://github.com/karabowiczjakub/larpathon)
 
 A team project developed at **HackYeah 2026**, helping cyclists in Kraków compare routes based on shade, air pollution, and thermal comfort.
 
